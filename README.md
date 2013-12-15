@@ -16,12 +16,10 @@ Config
 Open ```starbound_with_backup.bat``` with a text editor and change the following two env variables:
 
 ```bash
-:: CONFIG
 :: change this to your Starbound installation folder
 set STARBOUND_PATH=C://Starbound
 :: change this to the folder where you want to store the saved backups
 set BACKUP_DIR=C://My Very Own Folder/Starbound/Saves
-:: END CONFIG
 ```
 
 Usage
