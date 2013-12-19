@@ -2,7 +2,7 @@
 
 :: CONFIG
 :: change this to your Starbound installation folder
-set STARBOUND_PATH=C://Starbound
+set STARBOUND_PATH=C://Program Files (x86)//Steam//SteamApps//common//Starbound
 :: change this to the folder where you want to store the saved backups
 set BACKUP_DIR=C://My Very Own Folder/Starbound/Saves
 :: END CONFIG
